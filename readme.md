@@ -42,6 +42,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Adelaide Data & Analytics User Group](https://Adelaide.pass.org/) | AU/SA | Monthly | Microsoft |
 | [Adelaide Microsoft IT Pro Community](https://www.meetup.com/Adelaide-Microsoft-ITPro-Community/) | AU/SA | Monthly | Microsoft |
 | [Melbourne Microsoft Cloud and Datacenter Meetup](https://www.meetup.com/Melbourne-Microsoft-Cloud-and-Datacenter-Meetup/) | AU/VIC | Every 2 months | "here and there" |
+| [Melbourne Microsoft 365 Adoption User Group](https://www.meetup.com/en-AU/Microsoft-365-Adoption-Melbourne/) | AU/VIC | 2nd Friday of every month | Microsoft Melbourne |
 | [Melbourne Microsoft 365 Technical Meetup](https://www.meetup.com/en-AU/Melbourne-Microsoft-365-Technical-Meetup/) | AU/VIC | 4th Wednesday of every month | Microsoft |
 | [Melbourne Skype and Teams User Group](https://www.meetup.com/en-AU/Melbourne-UC/) | AU/VIC | Wednesday every 3 months | Microsoft |
 | [Melbourne SQL Server User Group](https://melbourne.pass.org/) | AU/VIC | 3rd Tuesday of every month | Microsoft |
@@ -54,6 +55,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Perth Azure User Group](https://www.meetup.com/en-AU/perthazug/) | AU/WA | 2nd Tuesday for IT Pro, 3rd Wednesday for Dev | Microsoft |
 | [Perth Databricks Community Meetup](https://www.meetup.com/en-AU/Perth-Databricks-Meetup/) | AU/WA | Every 2 months | Microsoft |
 | [Perth Microsoft Data and Analytics User Group](https://www.meetup.com/en-AU/Perth-Microsoft-Data-And-Analytics-User-Group/) | AU/WA | Intermittent | Microsoft |
+| [Perth SharePoint User Group](https://www.eventbrite.com/o/perth-sharepoint-user-group-427103945/) | AU/WA | Intermittent | Microsoft |
 | [Auckland Azure Lunchtime Meetup](https://www.meetup.com/Auckland-Azure-Lunchtime-Meetup/) | NZ/AKL | Monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
 | [Auckland Azure User Group](https://www.meetup.com/Auckland-Azure-Usergroup/) | NZ/AKL | 3rd Wednesday of every month | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
 | [Auckland Connected Systems User Group](https://www.meetup.com/Auckland-Connected-Systems-User-Group/) | NZ/AKL | Bi-monthly | Microsoft House (Level 5/22 Viaduct Harbour Ave, Auckland, 1010) |
